@@ -2,8 +2,8 @@
 ### Github Pages
 https://aleksandrkonst.github.io/food_Shop/
 ### Main page
-![image](https://user-images.githubusercontent.com/40522320/233154261-1c77068f-a785-4aa7-9936-9ed3fba753ed.png)
+![image](https://user-images.githubusercontent.com/40522320/233293767-e2653439-d6d8-4f27-8caa-45067fd20550.png)
 
-![image](https://user-images.githubusercontent.com/40522320/233154753-5f563bdb-f8e9-4f96-8575-61f7533be5f0.png)
+![image](https://user-images.githubusercontent.com/40522320/233293816-8e44f7c2-2fab-4a45-8307-8e99cb0cfae3.png)
 ### Login page
-![image](https://user-images.githubusercontent.com/40522320/233154615-29c4bc89-c69a-49a0-99cb-cc36a01e3a2d.png)
+![image](https://user-images.githubusercontent.com/40522320/233293913-9bef1318-71ce-42f0-bdf0-6bea58055b85.png)
